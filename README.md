@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Hasan Ovi Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Html, Css, JS, Bootstrap, WordPress, PHP**
+- 🌱 I’m currently learning **Html, Css, Bootstrap, WordPress, JS, PHP**
 
 - 📫 How to reach me **khaledhasan5109@gmail.com**
 
